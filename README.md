@@ -12,10 +12,10 @@
 [**Mutil-WOZ dataset**](https://www.aclweb.org/anthology/D18-1547.pdf)
 
 #### 1.2 Materials
-[Summary about DST](https://zhuanlan.zhihu.com/p/51476362)
+[**Summary about DST**](https://zhuanlan.zhihu.com/p/51476362)
 
 #### 1.3 Conferences
-[DSTC9-2020](https://dstc9.dstc.community/home)
+[**DSTC9-2020**](https://dstc9.dstc.community/home)
 
 (1) Beyond Domain APIs: Task-oriented Conversational Modeling with Unstructured Knowledge Access
 
@@ -26,13 +26,13 @@
 (4) SIMMC: Situated Interactive Multi-Modal Conversational AI.
 
 
-[DSTC1-8](https://dstc9.dstc.community/past-challenges)
+[**DSTC1-8**](https://dstc9.dstc.community/past-challenges)
 
 
 #### 1.4 Summaries about DSTC
-[Dialog System Technology Challenge 8](https://arxiv.org/pdf/1911.06394.pdf)
+[**Dialog System Technology Challenge 8**](https://arxiv.org/pdf/1911.06394.pdf)
 
-[Dialog System Technology Challenge 7](https://arxiv.org/pdf/1901.03461.padf)
+[**Dialog System Technology Challenge 7**](https://arxiv.org/pdf/1901.03461.padf)
 
 
 ### 2.Related works
