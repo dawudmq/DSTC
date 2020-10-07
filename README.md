@@ -1,6 +1,6 @@
 ## Research records
 ### outline
-[related works](https://github.com/dawudmq/DSTC/blob/main/README.md#2related-works)
+[related works](README.md#2related-works)
 
 ### 1.Dataset and materials
 
