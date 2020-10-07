@@ -1,6 +1,6 @@
 ## Research records
 ### outline
-[related works](README.md#2related-works)
+[related works](#2related-works)
 
 ### 1.Dataset and materials
 
