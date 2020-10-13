@@ -49,6 +49,11 @@
 #### 2.1 Reviews and summaries
 - [2020-Rethinking Dialogue State Tracking with Reasoning](https://arxiv.org/abs/2005.13129)
 
+- [2016-The dialog state tracking challenge series: A review](https://firstmonday.org/ojs/index.php/dad/article/view/10729)
+
+- [2015-Machine learning for dialog state tracking: A review](https://research.google/pubs/pub44018/)
+
+
 #### 2.2 SOTA works
 ***2020***
 
