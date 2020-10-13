@@ -15,9 +15,9 @@
 
 - [**The Second Dialog State Tracking Challenge**](https://www.aclweb.org/anthology/W14-4337.pdf)
 
-[Data1](https://github.com/matthen/dstc)
+[   Data1](https://github.com/matthen/dstc)
 
-[Data2](https://github.com/msamogh/DSTC-2-and-3/tree/master/dstc2/data)
+[   Data2](https://github.com/msamogh/DSTC-2-and-3/tree/master/dstc2/data)
 
 
 - [**Mutil-WOZ dataset**](https://www.aclweb.org/anthology/D18-1547.pdf)
@@ -25,7 +25,7 @@
 #### 1.2 Materials
 - [**Summary about DST**](https://zhuanlan.zhihu.com/p/51476362)
 
-- [**Assesment index**](https://www.sohu.com/a/134314480_465975)
+- [**Assessment index**](https://www.sohu.com/a/134314480_465975)
 
 - [**1Intorduction to DST**](https://zhuanlan.zhihu.com/p/40988001)
 
