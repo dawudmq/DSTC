@@ -25,6 +25,18 @@
 #### 1.2 Materials
 - [**Summary about DST**](https://zhuanlan.zhihu.com/p/51476362)
 
+- [**Assesment index**](https://www.sohu.com/a/134314480_465975)
+
+- [**1Intorduction to DST**](https://zhuanlan.zhihu.com/p/40988001)
+
+- [**2Introduction to DST**](https://rrl360.com/boke/15028)
+
+- [**DST Model**](https://zhuanlan.zhihu.com/p/40988001)
+
+
+
+
+
 #### 1.3 Conferences
 - [**DSTC9-2020**](https://dstc9.dstc.community/home)
 
