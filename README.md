@@ -15,9 +15,9 @@
 
 - [**The Second Dialog State Tracking Challenge**](https://www.aclweb.org/anthology/W14-4337.pdf)
 
-[   Data1](https://github.com/matthen/dstc)
+ensp;ensp;ensp;[Data1](https://github.com/matthen/dstc)
 
-[   Data2](https://github.com/msamogh/DSTC-2-and-3/tree/master/dstc2/data)
+ensp;ensp;ensp;[Data2](https://github.com/msamogh/DSTC-2-and-3/tree/master/dstc2/data)
 
 
 - [**Mutil-WOZ dataset**](https://www.aclweb.org/anthology/D18-1547.pdf)
@@ -27,9 +27,9 @@
 
 - [**Assessment index**](https://www.sohu.com/a/134314480_465975)
 
-- [**1Intorduction to DST**](https://zhuanlan.zhihu.com/p/40988001)
+- [**Intorduction to DST**](https://zhuanlan.zhihu.com/p/40988001)
 
-- [**2Introduction to DST**](https://rrl360.com/boke/15028)
+- [**Introduction to DST**](https://rrl360.com/boke/15028)
 
 - [**DST Model**](https://zhuanlan.zhihu.com/p/40988001)
 
