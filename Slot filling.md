@@ -1,19 +1,34 @@
-## Slot filling
+## Slot Filling
 
 ### 1.Related works
 
-#### ***1.1 Classical model***
+#### ***1.1 Latest review***
 
-- []()
+- [Intelligent personal assistants: A systematic literature review](https://www.sciencedirect.com/science/article/pii/S0957417420300191)Expert Systems with Applications,2020
 
 
-#### ***1.2 Few/Zero shot learning model***
+#### ***1.2 Classical model***
+
+- [A model with length-variable attention for spoken language understanding](https://www.sciencedirect.com/science/article/pii/S0925231219314791)Neurocomputing,2020
+
+- [Don’t Parse, Generate! A Sequence to Sequence Architecture for Task-Oriented Semantic Parsing](https://dl.acm.org/doi/abs/10.1145/3366423.3380064)Proceedings of The Web Conference,2020
+
+- [A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding](https://www.aclweb.org/anthology/D19-1214.pdf)Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing
+
+- [A novel bi-directional interrelated model for joint intent detection and slot filling](https://arxiv.org/abs/1907.00390)arXiv,2019
+
+- [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)arXiv,2019
+
+- [Joint slot filling and intent detection via capsule neural networks](https://arxiv.org/abs/1812.09471)arXiv,2018
+
+
+#### ***1.3 Few/Zero shot learning model***
 
 - [Robust zero-shot cross-domain slot filling with example values](https://arxiv.org/abs/1906.06870)arXiv
 
 - [Zero-Shot Slot Filling via Latent Question Representation and Reading Comprehension](https://link.springer.com/chapter/10.1007/978-3-030-29894-4_10)PRICAI 2019
 
-#### ***1.3 2020***
+#### ***1.4 2020***
 
 - [Multi-turn intent determination and slot filling with neural networks and regular expressions](https://www.sciencedirect.com/science/article/pii/S0950705120305578)Knowledge-Based Systems
 
@@ -51,7 +66,7 @@
 
 - [End-to-end Dialog Systems with Numerical Slot Filling](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P5-32.pdf)anlp.jp
 
-#### ***1.4 2019***
+#### ***1.5 2019***
 
 - [Bert for joint intent classification and slot filling](https://arxiv.org/abs/1902.10909)arXiv
 
